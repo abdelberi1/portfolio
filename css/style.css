@@ -1,0 +1,141 @@
+﻿.red{
+    height: 600px;
+    background-color: red;
+}
+
+.btn-custom{
+    background: skyblue;
+}
+
+body , html {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'raleway',sans-serif;
+}
+
+a ,a:hover {
+    text-decoration: none;
+}
+a.container-fluid {
+    padding: 0;
+}
+
+.hero-slide {
+    margin-top: -1px;
+}
+
+.separator {
+    height: 5px;
+    width: 5%;
+    box-shadow: none;
+    background-color: #2e6da4;
+}
+.separator a {
+    height: 5px;
+    width: 5%;
+    box-shadow: none;
+    background-color: right;
+}
+
+/* header */
+
+.inline-form input {
+    display: inline-block;
+    width: 100px;
+}
+
+.header {
+    background-color: #1b6d85;
+    height: 70px;
+    line-height: 70px;
+}
+.logo {
+    color: #4cae4c;
+    float: left;
+}
+
+.menu {
+    float: right;
+}
+.menu a {
+    color: #ffffff;
+    margin-right: 20px;
+}
+
+.menu a:hover {
+    color: #2c3e50;
+}
+/* bannière */
+.banner {
+    width: 100%;
+    max-width: 100;
+}
+
+.item {
+    width: 100%;
+    max-width: 100%;
+    
+}
+
+.ban img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.inner-banner {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+}
+/* about */
+
+#about {
+    text-align: center;
+    padding-top: 10%;
+}
+
+.about article {
+    margin-top: 10%;
+    
+}
+
+.about article h2 {
+    text-align: center;
+
+}
+/* portfolio */
+
+.portfolio {
+    background-color: #eeeeee;
+}
+
+#portfolio {
+    text-align: left;
+
+}
+
+.portfolio .item-folio {
+    height: 200px;
+    background-color: #2e6da4;
+}
+/* contact */
+
+#contact {
+    color: #5bc0de;
+    text-align: left;
+}
+
+.footer {
+    background-color: #000000;
+}
+
+.formulaireContact {
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
